@@ -32,5 +32,5 @@ six==1.11.0
 tqdm==4.19.6
 traitlets==4.3.2
 twython==3.6.0
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
